@@ -4,3 +4,7 @@
 ## Information
 * Currently in Beta
 - Available soon
+
+## Copyright Information
+Website may contain content from other open source projects.
+Images used in this project might be copyrighted
