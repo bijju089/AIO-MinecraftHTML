@@ -188,7 +188,9 @@ body{
 .sectioncon1{
     float: right;
     position: relative;
-    top: 150px;
+    top: 100px;
+    right: 4px;
+    height: 30px;
 }
 .headcontent{
     font-size: 40px;
