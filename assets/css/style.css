@@ -378,3 +378,26 @@ body.dark .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 		box-shadow: none;
 	}
 }
+
+.sectioncon1{
+    float: right;
+    position: relative;
+    top: 150px;
+}
+.headcontent{
+    font-size: 40px;
+    position: relative;
+    margin: 30px;
+    top:150px;
+    color: white;
+    text-transform:uppercase ;
+    font-weight: bolder;
+}
+.content{
+    font-size: 20px;
+    margin: 30px;
+    color: white;
+    position: relative;
+    top: 150px;
+    font-weight: lighter;
+}
