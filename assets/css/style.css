@@ -184,49 +184,28 @@ body{
 	color: #fff;
 	background-color: rgb(255,66,66,0.6);
 }
-
-.sectioncon1{
-    float: right;
-    position: relative;
-    top: 100px;
-    right: 4px;
-    height: 30px;
-}
-
-.headcontent{
-    font-size: 40px;
-    position: relative;
-    margin: 30px;
-    top:150px;
-    color: white;
-    font-weight: bolder;
-}
-.content{
-    font-size: 20px;
-    margin: 30px;
-    color: white;
-    position: relative;
-    top: 150px;
-    font-weight: lighter;
-}
-.side{
-    margin: 30px;
-    color: white;
-    position: relative;
-    top: 150px;
-}
-.button {
-  background-color: #008CBA;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-.button1 {
-  border-radius: 50px;
-}
+/*
+*  Header Content
+*/
+header {
+  background: #273c75;
+  background-image: url('https://github.com/bijju089/AIO-MinecraftHTML/blob/main/assets/images/sec1.png?raw=true');
+  background-repeat: no-repeat;
+  background-position: right;
+    
+  .header-content {
+    padding: 160px 0;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 640px;
+    
+    h1 {
+      color: #FFF;
+      font-size: 42px;
+      font-family: 'Lato', sans-serif;
+      font-weight: 900;
+    }
+    p {
+      font-size: 16px;
+      color: darken(#FFF, 20%);
+    }
